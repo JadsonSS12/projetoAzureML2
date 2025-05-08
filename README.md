@@ -14,7 +14,7 @@ O projeto pode ser subdividido em 4 partes:
 ## Criação do Modelo e Endpoints 
 O primeiro passo foi criar o modelo, escolhendo o tipo de IA, que neste 
 caso fora o gpt-4o e o text-embedding-3. 
-<img src="inputs/imagens/modelos.png">
+<img src="inputs/imagens/modelosendpoints.png">
 
 ## Adição de Dados 
 Neste momento, fiz o upload dos artigos, quais tratavam da comparação de 
@@ -23,7 +23,7 @@ desempenho entre tipos de armazenamento SSD e HD.
 
 ## Anexação de Mecanismos de Busca 
 Em seguida, tive de criar um recurso de busca Azure IA Search. 
-<img src="inputs/imagens/recurso.png">
+<img src="inputs/imagens/recursoBusca (1).png">
 
 ## Interação com o chat 
 Por fim, interagi com o chat e atestei que as respostas estavam de acordo 
