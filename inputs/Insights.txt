@@ -1,0 +1,2 @@
+Novamente, nenhum relevante insight em particular, a não ser a adição de algum recurso de precisão para saber quanto das respostas do chat da IA corresponde ao conteúdo dos arquivos. 
+Além disso, seria interessante poder analisar o que a IA conseguiria interpretar e relacionar a assuntos que vão além do escopo dos artigos, mas que ainda correspondem ao tema.
